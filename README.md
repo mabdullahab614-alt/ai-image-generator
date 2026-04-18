@@ -12,7 +12,7 @@ license: mit
 
 # 🎨 AI Image Generator — Free & Unlimited
 
-Generate unlimited AI images for free — **no API key needed!**
+Generate unlimited AI images for free — **no API key needed.**
 
 Powered by [Pollinations.ai](https://pollinations.ai)
 
@@ -24,7 +24,7 @@ Powered by [Pollinations.ai](https://pollinations.ai)
 - 💾 Download images directly from the gallery
 - 🎲 Seed control for reproducible results
 - 🚫 Negative prompt support
-- 🔁 Unlimited generations — completely free!
+- 🔁 Unlimited generations — completely free.
 
 ## Author
 Abdullah Javid
